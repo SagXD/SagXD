@@ -4,7 +4,6 @@
 - Fan Of Dash_Py 
 - Fuckin Linux User 
 - Use Linux Feel Proud
-- 
 
 <!---
 SagX-T/SagX-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
