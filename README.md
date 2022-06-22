@@ -16,6 +16,8 @@
 - 📫 My Discord SagXD#8804
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagx-t&show_icons=true&locale=en&theme=tokyonight" alt="sagx-t" /></p>
+
 
 <p align="left">
 </p>
@@ -29,7 +31,7 @@
 <a href="https://www.youtube.com/channel/UCODLfwDA3x-VAaJrmt_SEhQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagxd" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagx-t&show_icons=true&locale=en" alt="sagx-t" /></p>
+
 
 
 
