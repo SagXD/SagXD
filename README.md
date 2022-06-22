@@ -15,9 +15,6 @@
 - 👋 Hi, I’m @SagXD
 - 📫 My Discord SagXD#8804
 
-### Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagx-t&show_icons=true&locale=en&theme=dark" alt="sagx-t" /></p>
-
 
 
 <p align="left">
