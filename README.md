@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Info</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=firefox-css&color=grey&style=flat" alt="firefox-css" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagx-t&color=grey&style=flat" alt="firefox-css" /> </p>
 
 
 
@@ -29,7 +29,7 @@
 <a href="https://www.youtube.com/channel/UCODLfwDA3x-VAaJrmt_SEhQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagxd" height="30" width="40" /></a>
 </p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagx-t&show_icons=true&locale=en" alt="sagx-t" /></p>
 
 
 
