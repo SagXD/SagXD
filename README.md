@@ -1,11 +1,11 @@
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SagX-T/SagX-T/main/computer.gif" width="158px"/>
+<img src="https://raw.githubusercontent.com/SagXD/SagXD/main/computer.gif" width="158px"/>
 
 </p>
 
 <h1 align="center">Info</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagx-t&color=grey&style=flat" alt="firefox-css" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagxd&color=grey&style=flat" alt="firefox-css" /> </p>
 
 
 
@@ -16,7 +16,7 @@
 - 📫 My Discord SagXD#8804
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagx-t&show_icons=true&locale=en&theme=tokyonight" alt="sagx-t" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&locale=en&theme=tokyonight" alt="sagx-t" /></p>
 
 
 <p align="left">
