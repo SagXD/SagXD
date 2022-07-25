@@ -32,9 +32,6 @@
 <a href="https://instagram.com/sagxd__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sagxd/" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.planetminecraft.com/texture-pack/custom-totem-5641764/" title="Custom Totem Minecraft Texture Pack"><br /><img src="https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/764/15911743-banner_l.jpg" alt="Custom Totem" border="0"/><br/>Custom Totem</a> by <a href="https://www.planetminecraft.com/member/sagxd/" title="SagXD Profile">SagXD</a>
-
-
 
 
 ```
