@@ -12,8 +12,13 @@
 <h1 align="center">I'm a Student, Game Modder and Developer!!</h1>
 
 
-- 👋 Hi, I’m @SagXD
-- 📫 My Discord SagXD#8804
+-  Hi, I’m @SagXD
+-  I am a Small Minecraft YouTuber 
+-  Minecraft Resource Pack Maker
+-  Also Love Playing FPS Game 
+-  Games Hack Developer 
+-  Self Taught Programmer (Dev) 
+- My Discord SagXD#8804
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&locale=en&theme=tokyonight" alt="sagx-t" /></p>
