@@ -16,6 +16,8 @@
 - Small YouTuber
 - Texture Packs Creator
 - Anarchy Enjoyer 
+
+
  [![Discord Presence]( https://lanyard.cnrad.dev/api/887610165745057802)](https://discord.com/users/887610165745057802)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&locale=en&theme=tokyonight" alt="sagx-t" /></p>
