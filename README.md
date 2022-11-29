@@ -13,9 +13,9 @@
 
 
 - SagXD
-- Small YouTuber
-- Texture Packs Creator
-- Anarchy Enjoyer 
+- I am a Small YouTuber
+- I Like to Make Texture Pack 
+- I am an Anarchy Player (Mostly Play 6b6t) 
 
 
  [![Discord Presence]( https://lanyard.cnrad.dev/api/887610165745057802?bg=1A1B27)](https://discord.com/users/887610165745057802)
