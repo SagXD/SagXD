@@ -39,7 +39,7 @@
 <a href="https://instagram.com/sagxd__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagxd__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@sagxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sagxd" height="30" width="40" /></a>
 
-![Join]<a href="https://discord.gg/232"><img src="http://invidget.switchblade.xyz/232)"></a>
+<a href="https://discord.gg/232"><img src="http://invidget.switchblade.xyz/232)"></a>
 
 
 ```
