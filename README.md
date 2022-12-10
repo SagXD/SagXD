@@ -1,17 +1,17 @@
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/SagXD/SagXD/main/computer.gif" width="158px"/>
-
 </p>
 
-<h1 align="center">Info</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagxd&color=grey&style=flat" alt="firefox-css" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagxd&color=grey&style=for-the-badge" alt="sagxd" /> </p>
 
 
 
 <h1 align="center">I'm a Student and Developer!!</h1>
 
-
+<h2 style="font-size:30px"><b> 🙋🏻‍♂️ About Me <b></h2>
+ 
+ 
 - SagXD
 - I am a Small YouTuber.
 - I like to Make Texture Packs.
@@ -19,15 +19,14 @@
 
 
 
+### My Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&locale=en&theme=tokyonight" alt="sagx-t" /></p>
-<p align="center">
- 
-</p>
 
-[![Discord Presence]( https://lanyard.cnrad.dev/api/887610165745057802?bg=1A1B27)](https://discord.com/users/887610165745057802)
 
-<a href="https://discord.gg/232"><img src="http://invidget.switchblade.xyz/232"></a>
+### Discord Status
+
+<a href="https://discord.com/users/887610165745057802"><img src="https://lanyard.cnrad.dev/api/887610165745057802?bg=1A1B27"></a>
 
 
 
