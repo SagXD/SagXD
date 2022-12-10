@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&locale=en&theme=tokyonight" alt="sagx-t" /></p>
 
-<p align="left">
+<p align="center">
 </p>
 
 <a href="https://discord.gg/232"><img src="http://invidget.switchblade.xyz/232"></a>
