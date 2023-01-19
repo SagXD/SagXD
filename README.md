@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagxd&color=grey&style=for-the-badge" alt="sagxd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sagxd&color=grey&style=for-the-badge"/> </p>
 
 
 
@@ -21,7 +21,7 @@
 
 ### My Github Stats
 
-<p>&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=sagxd&showicons=true/></p>
+<p>&nbsp;<img=src=https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&bg_color=1A1B27/></p>
 
 
 ### Discord Status
