@@ -21,7 +21,7 @@
 
 ### My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&bg_color=1A1B27)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&theme=tokyonight)
 
 
 ### Discord Status
