@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/SagXD/SagXD/main/computer.gif" width="158px"/>
+<img src="https://i.imgur.com/Cp3uN8t.gif" width="158px"/>
 </p>
 
 
