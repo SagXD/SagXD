@@ -12,10 +12,7 @@
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About Me <b></h2>
  
  
-- SagXD
-- I am a Small YouTuber.
-- I like to Make Texture Packs.
-- I am an Anarchy Player (Especially Play 6b6t)
+- Hi, I'm Sag, I'm a Minecraft YouTuber. I Mostly Play on anarchy servers and like to make Minecraft Texture Packs. I'm currently Learning Java, JavaScript and Python. I can code in HTML and CSS.
 
 
 
