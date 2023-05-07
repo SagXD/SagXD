@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">I'm a Student and Developer!!</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7A2A2&width=550&lines=I'm+a+Student+and+Developer!!" alt="Typing SVG" /></a></h1>
 
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About Me <b></h2>
  
