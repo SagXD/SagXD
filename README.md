@@ -1,3 +1,4 @@
+> My GitHub account is solely for making pull requests and committing to some popular GitHub repositories. For my personal projects, you can find them on my Codeberg profile.
 <p align="center">
 <img src="https://i.imgur.com/Cp3uN8t.gif" width="158px"/>
 </p>
@@ -10,9 +11,11 @@
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About Me <b></h2>
 
  
-- Hi, I'm Sag, I Programme for fun.
+- Hi, I'm Sag, I Program for fun.
 ### My Github Stats
 ![SagXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagxd&show_icons=true&theme=tokyonight)
+
+
 
 ```
 :(
@@ -25,4 +28,4 @@ just collecting some error info, and then we'll restart for you.
               If you call a support person, give them this info:
               Stop code: SEVERELY_FUCKED_UP
 ```
-> My GitHub account is solely for making pull requests and committing to some popular GitHub repositories. For my personal projects, you can find them on my Codeberg profile.
+
