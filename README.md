@@ -1,4 +1,4 @@
-> My GitHub account is only for making pull requests and committing to some popular GitHub repositories. For my personal projects, you can find them on my Codeberg profile.
+> My GitHub account is only for making pull requests and committing to some GitHub repositories. For my personal projects, you can find them on my Codeberg profile.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagxd&color=grey&style=for-the-badge"/> </p>
 
