@@ -2,9 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagxd&color=grey&style=for-the-badge"/> </p>
 
+[AniList](https://anilist.co/user/SagXD/) | [Discord](https://discord.com/users/887610165745057802) | [Mail](mailto:SagXD@pm.me) |
+[Website](https://sag.is-a.dev/)
 
-## Hey 😊
-I am SagXD. I Program for fun. 🚀
-
-> <a rel="me" href="https://floss.social/@sag">Mastodon</a> | <a rel="me" href="https://sag.is-probably.gay/">Website</a> | <a rel="me" href="https://matrix.to/#/@sag:nitro.chat">Matrix</a> | <a rel="me" href="https://codeberg.org/sag">Codeberg</a> 
 
